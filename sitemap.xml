@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/tutorial/pytorch/</loc>
+      <lastmod>2018-10-20T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/tutorial/create-hugo/</loc>
+      <lastmod>2018-10-20T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/tutorial/deploy-hugo/</loc>
+      <lastmod>2018-10-20T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/post/quantile-nomrlization-and-inverse-normal-transform/quantile-normalization-and-inverse-normal-transform/</loc>
+      <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/project/internal-project/</loc>
+      <lastmod>2018-09-24T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/tutorial/</loc>
+      <lastmod>2018-09-09T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/project/gitbook-example/</loc>
+      <lastmod>2017-11-23T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/post/</loc>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/publication/</loc>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/project/external-project/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/post/getting-started/</loc>
+      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/publication/person-re-id/</loc>
+      <lastmod>2015-09-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/post/2015-07-23-r-rmarkdown/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/publication/clothing-search/</loc>
+      <lastmod>2013-07-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/publication_types/1/</loc>
+      <lastmod>2013-07-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/publication_types/2/</loc>
+      <lastmod>2015-09-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/</loc>
+      <lastmod>2017-10-15T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/tags/hugo/</loc>
+      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/project/</loc>
+      <lastmod>2018-09-24T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/publication_types/</loc>
+      <lastmod>2013-07-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/categories/r/</loc>
+      <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/tags/r/</loc>
+      <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/tags/r-markdown/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/tags/shiny/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/slides/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/slides/example-slides/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/tags/</loc>
+      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/tags/fun/</loc>
+      <lastmod>2018-09-24T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/tags/modeling/</loc>
+      <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/tags/plot/</loc>
+      <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/tags/python/</loc>
+      <lastmod>2018-09-24T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/tags/regression/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/tags/research/</loc>
+      <lastmod>2017-11-23T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bsun0802.github.io/site/tags/statistics/</loc>
+      <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>
